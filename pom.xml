@@ -34,20 +34,20 @@
 
 
 <!--	profiles is just to integrate SonarQube otherwise not needed   -->
-	<profiles>
-		<profile>
-			<id>ProfileOne</id>
-			<activation>
-				<activeByDefault>true</activeByDefault>
-			</activation>
-			<properties>
-				<sonar.login>admin</sonar.login>
-				<sonar.password>Kunfupand@23</sonar.password>
-				<sonar.projectName>JournalApplication</sonar.projectName>
-				<sonar.projectKey>JournalApplication</sonar.projectKey>
-			</properties>
-		</profile>
-	</profiles>
+<!--	<profiles>-->
+<!--		<profile>-->
+<!--			<id>ProfileOne</id>-->
+<!--			<activation>-->
+<!--				<activeByDefault>true</activeByDefault>-->
+<!--			</activation>-->
+<!--			<properties>-->
+<!--				<sonar.login>admin</sonar.login>-->
+<!--				<sonar.password>Kunfupand@23</sonar.password>-->
+<!--				<sonar.projectName>JournalApplication</sonar.projectName>-->
+<!--				<sonar.projectKey>JournalApplication</sonar.projectKey>-->
+<!--			</properties>-->
+<!--		</profile>-->
+<!--	</profiles>-->
 
 
 	<dependencies>
